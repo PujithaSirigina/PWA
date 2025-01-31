@@ -1,4 +1,9 @@
-![image](https://github.com/user-attachments/assets/6e25db94-1cf4-4cf4-a800-7445f0a88016)
+NAME: Pujitha Sirigina
+ COMPANY:COTECH IT SOLUTIONS 
+ DURATION: Jan 05,2025 TO Feb 5,2025 
+ DOMAIN:FRONTEND WEB DEVELOPMENT
+ Intern ID :CTO8IRK
+ ![image](https://github.com/user-attachments/assets/6e25db94-1cf4-4cf4-a800-7445f0a88016)
 
 PWA E-Commerce Platform 
 This project is a Progressive Web Application (PWA) for an E-Commerce platform that offers a smooth and reliable shopping experience, even without an internet connection. Built with HTML, CSS, and JavaScript, the app focuses on offline functionality, push notifications, and responsive design to enhance user engagement.
